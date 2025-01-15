@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "LastBullet DB Filter",
+  "description": "Add Filter to LastBullet DB",
+  "version": "0.1.0",
+  "action": {
+    "default_icon": {
+      "16": "last_bullet_db_filter_16.png",
+      "24": "last_bullet_db_filter_24.png",
+      "32": "last_bullet_db_filter_32.png"
+    }
+  }
+}
